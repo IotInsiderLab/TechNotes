@@ -5,4 +5,4 @@ Notes on technologies used in the lab.
 
 * [Lab Instruments](LabInstruments/README.md) - Helpful notes on using equipment in our labs that might be helpful for others.
 
-* [Functions cold-start](FunctionsColdStart.md) - What is "cold start" of Azure Functions and how to deal with it.
+* [Functions cold-start](FunctionColdStart.md) - What is "cold start" of Azure Functions and how to deal with it.
