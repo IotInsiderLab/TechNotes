@@ -1,7 +1,15 @@
 # ESP32
 
 ## Device Updates
- You will likely want a dedicated cpp file for handling the update logic
+ 
+ To create the bin file and compute the MD5 hash run the following commands
+
+```bash
+$ make flash
+$ md5 build/XXXX.bin
+```
+
+You will likely want a dedicated cpp file for handling the update logic.
 
 ```C++
 #include "Arduino.h"
