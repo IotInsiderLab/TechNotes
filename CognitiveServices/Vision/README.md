@@ -5,7 +5,7 @@ Helpful notes on using Cognitive Services - Vision API.
 
 ## Computer Vision
 
-###Analyze Image
+### Analyze Image
 
 Calls multiple functions at once (gets spendy)
 
