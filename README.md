@@ -1,3 +1,6 @@
+# Deprecated
+[Now In DevOps](https://dev.azure.com/iotaiinsiderlabs/Learnings)
+
 # TechNotes
 Notes on technologies used in the lab.
 
